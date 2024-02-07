@@ -1,6 +1,6 @@
 # polyend_tracker_editor
 
-This is an editor to edit the Polyend Tracker Instrument Parameters with a Computer. It was made with the visual programing language "Pure Data"
+This is an editor to edit the Polyend Tracker Instrument Parameters with a Computer. It was made with the visual programming language "Pure Data"
 It will run in Pure Data, Purr-Data, Plug-Data Standalone or other Pure Data software - which is free and opensource software for Mac, Windows and Linux.
 
 Sequencing can be focused on with the Polyend Tracker and the editing of sounds via a Laptop or PC. Edits to Instrument Parameters can be done in the editor instead of using multiple windows / sections on the Tracker.
